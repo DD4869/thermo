@@ -5,3 +5,4 @@ To implement the code, you need to get LINE Notify Token.
 You can get it from here.
 
 https://notify-bot.line.me/
+
