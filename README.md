@@ -1,4 +1,4 @@
-- This python file is for a thermometer by using Raspberry Pi 3b+ and DHT22(AM2302) integrated with LINE application.
+- This python file is for a thermometer by using Raspberry Pi 3 Model B+ and DHT22(AM2302) integrated with LINE application.
 
 - To implement the code, you need to get your LINE Notify Token in advance and connect DHT22 to Raspberry Pi in advance.
 
