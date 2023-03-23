@@ -6,3 +6,4 @@ You can get it from here.
 
 https://notify-bot.line.me/
 
+Also, for better implementation, it is better to set cron for the python file as you can receive notifications from time to time.
